@@ -1,0 +1,4 @@
+{
+  "value_error_code": "E_BAD_VALUE",
+  "values": [0, 1, -1, 300, -300, 5]
+}
